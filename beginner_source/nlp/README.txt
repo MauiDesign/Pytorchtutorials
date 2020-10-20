@@ -1,6 +1,8 @@
 Deep Learning for NLP with Pytorch
 ----------------------------------
 
+Hardware constraints. CUDA GPU to support c++
+
 1. pytorch_tutorial.py
 	Introduction to PyTorch
 	https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html
